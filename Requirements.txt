@@ -1,0 +1,19 @@
+
+DESCRIPTION: Choose your own adventure.
+
+This program will all the user to select various options to lead others through their own adventure story.
+
+In order to receive a passing grade, you must COMMENT line by line (or section by section, depending on your code).
+This activity is worth 20 points in the Class Assessment category (25% of your grade).
+
+The requirements for the program are as follows:
+
+1. Program must give the user up to three options.
+
+2. Program must have a clear beginning and an ending to the story.
+
+3. Program must use function(s), local variables, global variables, loops, and lists.
+
+4. The random module is the only module that may be used.
+
+NOTE: Be aware of the complexity of your story.
